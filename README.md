@@ -1,5 +1,5 @@
 # AutoScript
-虚拟机Pwn环境搭建自动脚本
+CTF Pwn环境搭建自动脚本
 
 ### 安装内容为：
 * vim 
