@@ -24,3 +24,4 @@ sudo apt-get install gcc-mips-linux-gnu
 sudo apt-get install gcc-mipsel-linux-gnu
 sudo apt-get install gcc-mips64-linux-gnuabi64
 sudo apt-get install gcc-mips64el-linux-gnuabi64
+pip install pwntools
