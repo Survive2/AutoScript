@@ -1,6 +1,8 @@
 # AutoScript
 虚拟机Pwn环境搭建自动脚本
 
+使用方法为：
+`git clone `
 需要将~/.gdbinit的内容改为：
 ```shell
 source ~/tools/pwndbg/gdbinit.py
