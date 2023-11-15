@@ -2,7 +2,16 @@
 虚拟机Pwn环境搭建自动脚本
 
 ### 安装内容为：
-vim git pwntools pwngdb pwndbg gdb-multiarch qemu-user qemu-system one_gadget seccomp-tools 各种架构的gcc pip
+* vim 
+* git
+* pwntools
+* pwngdb\pwndbg\gdb-multiarch
+* qemu-user\qemu-system
+* one_gadget
+* seccomp-tools
+* 各种架构的gcc
+* pip
+* patchelf
 
 ### 使用方法为：
 ```shell
